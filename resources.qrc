@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/assets/home.glb</file>
+        <file>ui/TopBar/TopBar.qml</file>
+        <file>ui/FrontDoorIndicator/FrontDoorIndicator.qml</file>
+        <file>ui/SecurityBubble/SecurityBubble.qml</file>
+        <file>ui/Energy/Energy.qml</file>
+        <file>ui/NotificationToast/NotificationToast.qml</file>
+    </qresource>
+</RCC>

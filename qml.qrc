@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/assets/Duck.glb</file>
+    </qresource>
+</RCC>
