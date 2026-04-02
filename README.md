@@ -1,4 +1,4 @@
-<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/7533929d-ee43-4d53-a632-3a3745288c87" />**Smart Home Management System with 3D Visualization**
+**Smart Home Management System with 3D Visualization**
 
 A cross-platform software complex designed for monitoring and controlling "Smart Home" ecosystems. This project integrates a hierarchical IoT device model, an interactive 3D environment, and real-time energy consumption analysis.
 
@@ -20,15 +20,42 @@ A cross-platform software complex designed for monitoring and controlling "Smart
 
   **📸 Screenshots & Demo**
 
-  
+
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/1e1011e8-f607-4079-8d9f-d239de777852" />
+
 
   1. Main 3D Interface
 
+
+<img width="1901" height="116" alt="image" src="https://github.com/user-attachments/assets/b49e3d2b-ecba-42d7-aa4d-1d189ce71d31" />
+
+
   2. Energy Analytics
+
+<img width="1307" height="676" alt="image" src="https://github.com/user-attachments/assets/11053a94-ab4f-4233-8558-7bbd4c42c926" />
+
+<img width="1291" height="637" alt="image" src="https://github.com/user-attachments/assets/411a0838-75a3-46d5-b9bb-f954d86ae4d3" />
+
+<img width="1271" height="603" alt="image" src="https://github.com/user-attachments/assets/d53bf508-b4e8-469a-a1c3-7a4c1892528c" />
+
 
   3. Network & Security Status
 
+
+<img width="1633" height="875" alt="image" src="https://github.com/user-attachments/assets/ab4c0e03-6ae6-4476-aa17-d8c1966f27df" />
+
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/1e0b0c70-cd32-4210-b465-00a1dd02a5cd" />
+
+
+  4.Device status: on and off 
+
+
+<img width="1882" height="121" alt="image" src="https://github.com/user-attachments/assets/619b39ef-243f-47d4-abba-6fb241b58196" />
+
+<img width="1873" height="121" alt="image" src="https://github.com/user-attachments/assets/128d38d6-680c-484d-9146-4994a7f45fd0" />
+
+
+  5. Dynamic changes in electricity consumption depending on the load on the power grid
 
 **🏗️ Architecture**
 
