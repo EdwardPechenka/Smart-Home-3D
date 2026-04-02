@@ -19,6 +19,8 @@ A cross-platform software complex designed for monitoring and controlling "Smart
   Local Event Logging: Transactional event history and audit logs stored in a local SQLite database.
 
   **📸 Screenshots & Demo**
+
+  
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/1e1011e8-f607-4079-8d9f-d239de777852" />
 
   1. Main 3D Interface
